@@ -1,5 +1,5 @@
 # Reinforcement-Learning_(ML)_PPO_Microwave Filter-Tuning
-Brief Description: Apply Proximal Policy Optimization (PPO) algorithm to tune microwave filter automatically.  
+Brief Description: _Apply Proximal Policy Optimization (PPO) algorithm to tune microwave filter automatically_.<br />
 
 
 **_About The Project_**<br />
@@ -8,3 +8,9 @@ Brief Description: Apply Proximal Policy Optimization (PPO) algorithm to tune mi
 - Machine learning approach is used to shorten the time taken of filter tuning process and boost the tuning outcome
 
 
+**_Built With_**<br />
+- Stable Baseline3 Documentation
+- Pytorch
+- OpenAI Gym toolkit
+- Python programming language
+- IronPython 
