@@ -1,7 +1,7 @@
 # Reinforcement-Learning_(ML)_PPO_Microwave Filter-Tuning
-## Brief Description: Apply Proximal Policy Optimization (PPO) algorithm to tune microwave filter automatically.  
+Brief Description: Apply Proximal Policy Optimization (PPO) algorithm to tune microwave filter automatically.  
 
 **_About The Project_**<br />
-Manufactured RF filter will need to go through the filter tuning process to guarantee the performance without compromising. 
-
+- Manufactured RF filter will need to go through the filter tuning process to guarantee the performance without compromising. 
+- Type some Markdown on the left
 
