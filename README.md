@@ -22,7 +22,7 @@ Brief Description: _Apply Proximal Policy Optimization (PPO) algorithm to tune m
 
 
 ---
-
+## **_Project's Filter_**<br />
 Type of microwave filter used in this project:<br />
 4th Order Chebyshev Filter (simulated in HFSS)
 
