@@ -10,14 +10,21 @@ Brief Description: _Apply Proximal Policy Optimization (PPO) algorithm to tune m
 - Machine learning approach is used to shorten the time taken of filter tuning process and boost the accuracy of tuning outcome
 - Proximal Policy Optimization (PPO) among reinforcement learning algorithm is chosen as its continuous action space and prominent divergence speed in continuous control tasks
 
+Type of microwave filter used in this project:
+4th Order Chebyshev Filter
+
+![image](https://user-images.githubusercontent.com/85819871/163743277-a6b01aca-9e78-46f6-b757-9c993da2f295.png)
 
 ---
 
 
 **_Built With_**<br />
-- ANSYS-HFSS (Filter Simulation Software)
-- Stable Baseline3 Documentation
-- Pytorch
-- OpenAI Gym toolkit
-- Python 
-- IronPython 
+- ANSYS-HFSS (Filter Simulation Software, 21.1)
+- Stable Baseline 3 (PPO Agent)
+- Pytorch (1.10.1)
+- Python (3.8)
+- IronPython (2.7)
+
+---
+
+
