@@ -31,7 +31,7 @@ Type of microwave filter used in this project:<br />
 
 Filter Parameters To Be Tuned:<br />
 As the internal filter structure is symmetric, the specifications of resonator 1 is same with resonator 4 (the same goes to resonator 2 and 3). 
-The filter parameters involved is the length of resonator 1 (4), and resonator 2 (3) as shown as below:
+The filter parameters involved are the length of resonator 1 (4), and resonator 2 (3) as shown as below:
 
 ![image](https://user-images.githubusercontent.com/85819871/163744956-437fcb52-0f7c-441d-bb73-362e39a1a2c0.png)
 
@@ -43,5 +43,10 @@ The filter parameters involved is the length of resonator 1 (4), and resonator 2
  ## _**Project Framework** <br />_
  
  Reinforcement Learning Environment: HFSS (automated by Python and IronPython scripts in PyCharm)<br />_
+ - After action is applied, states (S-Parameters' distances) and reward (sum of distances) are given as feedback to the agent
+ 
+ 
  Reinforcement Learning Learning Agent: PPO agent (modified based on stable baseline 3 documentation source code)
+ - Agent learn and update the policy to provide the best action (filter tuning process in HFSS) to perform in the environment
+ 
 
