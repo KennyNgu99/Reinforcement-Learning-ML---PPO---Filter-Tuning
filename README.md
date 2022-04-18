@@ -42,7 +42,7 @@ The filter parameters involved are the length of resonator 1 (4), and resonator 
 
  ## _**Project Framework** <br />
  
- Reinforcement Learning Environment: HFSS (automated by Python and IronPython scripts in PyCharm)<br />_
+ Reinforcement Learning Environment: HFSS (automated by Python and IronPython scripts in PyCharm)
  - After action is applied, states (S-Parameters' distances) and reward (sum of distances) are given as feedback to the agent
  
  Reinforcement Learning Learning Agent: PPO agent (modified based on stable baseline 3 documentation source code)
