@@ -25,10 +25,14 @@ Brief Description: _Apply Proximal Policy Optimization (PPO) algorithm to tune m
 
 Type of microwave filter used in this project:<br />
 4th Order Chebyshev Filter (simulated in HFSS)
+
 ![image](https://user-images.githubusercontent.com/85819871/163743277-a6b01aca-9e78-46f6-b757-9c993da2f295.png)
-Filter Parameters To Be Tuned:
+
+
+Filter Parameters To Be Tuned:<br />
 As the internal filter structure is symmetric, the specifications of resonator 1 is same with resonator 4 (the same goes to resonator 2 and 3). 
 The filter parameters involved is the length of resonator 1 (4), and resonator 2 (3) as shown as below:
+
 ![image](https://user-images.githubusercontent.com/85819871/163744956-437fcb52-0f7c-441d-bb73-362e39a1a2c0.png)
 
 
