@@ -4,7 +4,7 @@ Brief Description: _Apply Proximal Policy Optimization (PPO) algorithm to tune m
 ---
 
 
-##**_About The Project_**<br />
+## **_About The Project_**<br />
 - Manufactured RF filter will need to go through the filter tuning process to guarantee the performance without compromising
 - There are many factors such as tedious / difficult manual tuning process and filter characteristics that harden the filter tuning process
 - Machine learning approach is used to shorten the time taken of filter tuning process and boost the accuracy of tuning outcome
@@ -18,13 +18,17 @@ Type of microwave filter used in this project:<br />
 ---
 
 
-##**_Built With_**<br />
+## **_Built With_**<br />
 - ANSYS-HFSS (Filter Simulation Software, 21.1)
 - Stable Baseline 3 (PPO Agent)
 - Pytorch (1.10.1)
-- Python (3.8)
+- Python (3.8) by PyCharm IDE 
 - IronPython (2.7)
+- 
 
 ---
-
+ ## **Project Framework** <br />
+ 
+ Reinforcement Learning Environment: HFSS (automated by Python and IronPython scripts in PyCharm)
+ Reinforcement Learning Learning Agent: PPO agent (modified based on stable baseline 3 documentation source code)
 
